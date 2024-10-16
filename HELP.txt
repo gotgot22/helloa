@@ -1,0 +1,2 @@
+HELP
+- นักศึกษายังไม่สามารถเข้าใจกระบวนการทำงานของ Docker เมื่อ Build Dockerfile แล้วไม่สามารถใช้คำสั่ง docker build -t my-django_docker . ได้ และยังไม่เข้าใจ AWS CLI to Docker Autentication
