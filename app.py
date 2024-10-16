@@ -2,6 +2,7 @@ import streamlit as st
 
 # ชื่อแอปพลิเคชัน
 st.title("AI Project App")
+st.text_input("HELP.txt")
 
 # คำอธิบายของแอป
 st.write("This is a simple Streamlit app for the AI project.")
